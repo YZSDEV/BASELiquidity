@@ -1,7 +1,7 @@
 {
     "base_rpc_url": "https://base.blockpi.network/v1/rpc/public",
     "telegram_bot_token": "Token",
-    "telegram_chat_id": ID,
+    "telegram_chat_id": TelegramID,
     "weth_contract_address": "0x4200000000000000000000000000000000000006",
     "addresses_file": "addresses.txt"
 }
